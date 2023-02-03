@@ -56,5 +56,9 @@
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
 }
-    
+,{
+    "koneksi": "CNAME",
+    "hostku": "bhavesh-acquaintsoft",
+    "target": "bhavesh-acquaintsoft-dev.github.io"
+}    
 ]
